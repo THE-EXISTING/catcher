@@ -21,20 +21,20 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  fluttertoast: ^8.2.3
-  device_info_plus: ^9.1.0
+  fluttertoast: ^8.2.4
+  device_info_plus: ^9.1.1
   device_info_plus_platform_interface: ^7.0.0
-  package_info_plus: ^4.2.0
+  package_info_plus: ^5.0.1
   mailer: ^6.0.1
-  dio: ^5.3.3
-  flutter_mailer: ^2.0.0
-  logging: ^1.0.2
-  sentry: ^7.12.0
-  universal_io: ^2.0.4
+  dio: ^5.4.0
+  flutter_mailer: ^2.1.2
+  logging: ^1.2.0
+  sentry: ^7.13.2
+  universal_io: ^2.2.2
   very_good_analysis: ^5.1.0
 
 dev_dependencies:
-  lint: ^2.1.2
+  lint: ^2.2.0
 
 flutter:
   plugin:
